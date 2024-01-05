@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on New private cloud project
 
-- 🌱 I’m currently learning **C# Fullstack Development and AWS**
+- 🌱 I’m currently learning **Generative AI with Golang**
 
-- 💬 Ask me about **C#, .Net Core, Cloud computing, AWS**
+- 💬 Ask me about **C#, .Net Core, Cloud computing, Docker, AWS**
 
 - ⚡ Fun fact **Just crazy about technologies!**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/dhananjayspandit/](https://www.linkedin.com/in/dhananjayspandit/)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjayspandit//" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhananjayspandit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjayspandit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
