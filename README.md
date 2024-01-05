@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Pandit</h1>
-<h3 align="center">A passionate C# .Net Cloud architect and developer </h3>
+<h3 align="center">A passionate C# .Net Cloud architect and engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay1305&label=Profile%20views&color=0e75b6&style=flat" alt="jay1305" /> </p>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhananjayspandit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjayspandit/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhananjayspandit/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhananjayspandit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
