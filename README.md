@@ -6,7 +6,7 @@
 
 [![@jay1305's Holopin board](https://holopin.io/api/user/board?user=jay1305)](https://holopin.io/@jay1305)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay1305" alt="jay1305" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jay1305"><img src="https://github-profile-trophy.vercel.app/?username=jay1305" alt="jay1305" /></a> </p>
 
 - 🔭 I’m currently working on New private cloud project
 
